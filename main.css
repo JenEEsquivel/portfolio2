@@ -1,0 +1,58 @@
+html{
+  font-size: 16px;
+}
+
+body {
+ /* font-size: 62.5%; /* 1em = 10px*/
+ font-size: 1em;
+ font-family: sans-serif;
+
+ /*background: url("images/bluebubble.jpg") repeat; */
+ background-color:  #424242;
+ padding: 3em;
+ color: white;
+}
+
+header {
+background-color: rgba(255, 255, 255, 0.4);
+  font-size: 1.5em;
+  padding: 3em 3em 3em 3em;
+  font-family: Helvetica, serif;
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+head {
+  /*background: url("images/bluebubble.jpg") repeat; */
+  background-color: #a86565;
+  padding: 10em;
+  font-family: Helvetica, serif;
+  margin: auto;
+  text-align: center;
+  color: white;
+  padding: 1em 1em 1em 1em;
+}
+
+footer {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 1em;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+nav ul {
+  font-size: 1em;
+  text-align: left;
+  display: inline-block;
+  padding: 1.2em 1.2em 1.2em 1.2em;
+  color: #A88787;
+}
+
+nav ul li {
+  font-size: 1em;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  color: 
+

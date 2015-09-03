@@ -1,0 +1,193 @@
+html{
+  font-size: 16px;
+}
+
+body {
+ /* font-size: 62.5%; /* 1em = 10px*/
+ font-size: 1em;
+ font-family: sans-serif;
+ background: url("images/bluebubble.jpg") repeat; 
+ padding: 3em;
+ color: teal;
+}
+
+header {
+
+  padding: 3em 3em 3em 3em;
+  font-family: Helvetica, serif;
+  margin: auto;
+  text-align: center;
+  color: teal;
+}
+
+head {
+  background: url("images/bluebubble.jpg") repeat; 
+  padding: 10em;
+  font-family: Helvetica, serif;
+  margin: auto;
+  text-align: center;
+  color: teal;
+  padding: 1em 1em 1em 1em;
+}
+
+footer {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 2em;
+  font-size: 1.5em;
+}
+
+nav ul {
+  font-size: 1.3em;
+  text-align: left;
+  display: inline-block;
+  padding: 1.2em 1.2em 1.2em 1.2em;
+}
+
+nav ul li {
+  font-size: 1.3em;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* Typography Stuff */
+p { 
+  color: teal;
+  margin: 0 0 2em 0;
+  text-align: left;
+}
+
+a { 
+  font-weight: bold; 
+  text-decoration: none; 
+  color: teal;
+  margin: 0 5px;
+}
+
+
+h1 {
+  font-family: cursive, serif;
+  font-size: 3em;
+  text-align: center;
+  margin: auto;
+  color: teal;
+}
+
+h2 {
+ font-family: cursive, serif;
+  font-size: 2.5em;
+  text-align: left;
+  margin: auto;
+  color: teal;
+  padding: 1em;
+}
+
+h3 {
+ font-family: cursive, serif;
+  font-size: 2em;
+  text-align: center;
+  margin: auto;
+  color: teal;
+  padding: 0 0 0 0;
+}
+
+h4 {
+ font-family: cursive, serif;
+  font-size: 1.3em;
+  text-align: center;
+  margin: auto;
+  color: teal;
+}
+
+h5, h6 {
+  font-family: cursive, serif;
+  font-size: 1.5em;
+  color: teal;
+  text-align: left;
+  margin: auto;
+  padding: 1em;
+}
+
+
+footer {
+  text-align: center;
+  text-decoration: none;
+  color: teal;
+}
+
+#navigation {
+  float: left;
+  width: 300px;
+  height: 0;
+  text-decoration: none;
+  text-align: center;
+  margin: 0 auto;
+  padding: 2em 0 0 0;
+  color: #A88787;
+}
+
+#navigation li {
+  list-style:  none;
+ }
+
+.crop img {
+  height: 200px;
+  width: auto;
+  overflow: hidden;
+}
+
+.navigation {
+  background-color: white;
+  text-align: center;
+  list-style: none;
+}
+
+/* Bio */
+.bio {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 2em;
+}
+
+.portfolio {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 2em;
+}
+
+.socialMedia {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 2em;
+}
+
+header {
+  /*background-color: #FFFFCC;*/
+  background: url("images/bluebubble.jpg") repeat; 
+  padding: 2em;
+}
+
+.socialMedia {
+  text-align: center;
+}
+
+.fofww {
+  padding: 1em;
+
+}
+
+.pdf {
+  padding: 1em;
+}
+
+.address {
+  font-family: cursive, serif;
+  font-size: 1em;
+  text-align: center;
+  color: teal;
+  padding: 1em;
+
+}
+
+.wrapper {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 2em;
+  background: url("images/paper.jpg") repeat;
+}
